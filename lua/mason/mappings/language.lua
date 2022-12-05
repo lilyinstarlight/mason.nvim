@@ -80,7 +80,7 @@ return {
   nginx = { "nginx-language-server" },
   nickel = { "nickel-lang-lsp" },
   nim = { "nimlsp" },
-  nix = { "rnix-lsp" },
+  nix = { "nil", "rnix-lsp" },
   nunjucks = { "curlylint", "djlint" },
   ocaml = { "ocaml-lsp" },
   onescript = { "bsl-language-server" },
